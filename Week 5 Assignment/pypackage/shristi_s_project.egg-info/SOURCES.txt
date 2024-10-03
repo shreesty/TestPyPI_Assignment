@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+newPackage/__init__.py
+newPackage/simple_maths.py
+shristi_s_project.egg-info/PKG-INFO
+shristi_s_project.egg-info/SOURCES.txt
+shristi_s_project.egg-info/dependency_links.txt
+shristi_s_project.egg-info/entry_points.txt
+shristi_s_project.egg-info/requires.txt
+shristi_s_project.egg-info/top_level.txt

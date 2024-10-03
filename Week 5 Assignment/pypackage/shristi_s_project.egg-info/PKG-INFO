@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: shristi-s_project
+Version: 0.1
+Summary: A simple math package
+Home-page: https://github.com/your_username/your_project
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.18.0
+Requires-Dist: pandas>=1.0.0
+Requires-Dist: tensorflow>=2.0.0
+
+
+A simple math package that provides basic addition and subtraction functions.
+
+ ## Installation
+
+   To install the package, use:
+
+   ```bash
+   pip install my_package
